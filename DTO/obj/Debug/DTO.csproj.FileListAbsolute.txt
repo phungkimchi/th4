@@ -1,0 +1,18 @@
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\DTO\obj\Debug\DTO.pdb
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\DTO\bin\Debug\DTO.dll
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\DTO\bin\Debug\DTO.pdb
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\DTO\obj\Debug\DTO.dll
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\DTO\obj\Debug\DTO.pdb
+D:\Quản lí nhà hàng\DTO\bin\Debug\DTO.dll
+D:\Quản lí nhà hàng\DTO\bin\Debug\DTO.pdb
+D:\Quản lí nhà hàng\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Quản lí nhà hàng\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Quản lí nhà hàng\DTO\obj\Debug\DTO.dll
+D:\Quản lí nhà hàng\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,27 @@
+C:\Users\Admin\Desktop\WindowsFormsApp1\DAO\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\DAO\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\DAO\obj\Debug\DAO.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\DAO\obj\Debug\DAO.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\DAO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\DAO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\DAO\bin\Debug\DAO.dll
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\DAO\bin\Debug\DAO.pdb
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\DAO\bin\Debug\DTO.dll
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\DAO\bin\Debug\DTO.pdb
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\DAO\obj\Debug\DAO.dll
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\DAO\obj\Debug\DAO.pdb
+D:\Quản lí nhà hàng\DAO\bin\Debug\DAO.dll
+D:\Quản lí nhà hàng\DAO\bin\Debug\DAO.pdb
+D:\Quản lí nhà hàng\DAO\bin\Debug\DTO.dll
+D:\Quản lí nhà hàng\DAO\bin\Debug\DTO.pdb
+D:\Quản lí nhà hàng\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Quản lí nhà hàng\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Quản lí nhà hàng\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Quản lí nhà hàng\DAO\obj\Debug\DAO.dll
+D:\Quản lí nhà hàng\DAO\obj\Debug\DAO.pdb

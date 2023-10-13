@@ -1,0 +1,33 @@
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\BUS\bin\Debug\DAO.dll
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\BUS\bin\Debug\DAO.pdb
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+C:\Users\Luc14\OneDrive\Desktop\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb
+D:\Quản lí nhà hàng\BUS\bin\Debug\BUS.dll
+D:\Quản lí nhà hàng\BUS\bin\Debug\BUS.pdb
+D:\Quản lí nhà hàng\BUS\bin\Debug\DAO.dll
+D:\Quản lí nhà hàng\BUS\bin\Debug\DTO.dll
+D:\Quản lí nhà hàng\BUS\bin\Debug\DAO.pdb
+D:\Quản lí nhà hàng\BUS\bin\Debug\DTO.pdb
+D:\Quản lí nhà hàng\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Quản lí nhà hàng\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Quản lí nhà hàng\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Quản lí nhà hàng\BUS\obj\Debug\BUS.dll
+D:\Quản lí nhà hàng\BUS\obj\Debug\BUS.pdb
